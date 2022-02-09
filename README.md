@@ -1,5 +1,5 @@
 {
-"newVersion": "1.1",
+"newVersion": "1.0",
 "apkUrl": "https://t.me/+SnR1rctj_h3Vdc1J",
 "versionNotes":"
 •ITunnel SSH v2•
